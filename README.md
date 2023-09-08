@@ -24,4 +24,4 @@ It is used to get information of patient whose been tested by doctor whether pat
 
  ## Project Deployed Link
 ***
-### Link: 
+### Link: https://hospital-api-bu2s.onrender.com
