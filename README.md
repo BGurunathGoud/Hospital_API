@@ -12,7 +12,8 @@ It is used to get information of patient whose been tested by doctor whether pat
 4. Set the correct directory path of the application.
 5. Set the MongoDB connection of the database. And check whether it is connected or not.
 6. Run npm install, it will download the node modules dependencies.
-7. Open Postman and run the http://localhost:7000 including route's file location.
+7. Run on VS Code terminal using npm start command then it will starts running successfully.
+8. Open Postman and run the http://localhost:7000 including route's file location.
 
 ## How to use app on web
 1. Here user post doctor details and get it registered.
